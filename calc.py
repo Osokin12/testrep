@@ -49,4 +49,3 @@ while True:
         print(num1, "/", num2, "=", division_result)
     else:
         print("Invalid input. Please try again.")
-
